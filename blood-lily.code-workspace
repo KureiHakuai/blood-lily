@@ -1,18 +1,17 @@
 {
     "folders":  [
-                    {
-                        "name":  "draft",
-                        "path":  "draft"
-                    },
-                    {
-                        "name":  "markdown",
-                        "path":  "markdown"
-                    },
-                    {
-                        "name":  "settings",
-                        "path":  "settings"
-                    }
-                ],
+        {
+            "name": "draft",
+            "path": "draft"
+        },
+        {
+            "name": "settings",
+            "path": "settings"
+        },
+        {
+            "path": "docs"
+        }
+    ],
     "settings":  {
                      "editor.semanticTokenColorCustomizations":  {
                                                                      "[Default Light+]":  {
